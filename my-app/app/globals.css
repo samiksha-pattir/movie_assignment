@@ -1,0 +1,78 @@
+body{
+    background-color:black;
+
+}
+
+
+.h{
+    border:solid red 1px;
+    margin-bottom:40px;
+
+
+}
+
+
+.header{
+    height:128px;
+
+
+}
+
+
+#logo{
+    float:left;
+    margin:30px 5px 30px 80px;
+
+}
+
+#text{
+     float:left;
+     margin:45px 30px;
+     
+     
+}
+
+#watch{
+    float: right;
+    margin:50px 45px  ;
+}
+
+
+
+#add{
+   float: right;
+   margin:50px 0px ;
+}
+
+.rows{
+    height:320px;
+    width:1500px;
+    margin:auto;
+    
+}
+
+
+
+#poster{
+    float:left;
+    margin-top:25px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

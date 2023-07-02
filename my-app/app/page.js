@@ -1,27 +1,17 @@
-import  './movie.css'
-import Rows from './row.js'
-
+import Header from './movieHead.js';
+import Rows from './row.js';
 function Random() {
   return (
+     <div>
+        <Header />
+        <Rows />
+     </div>
      
-    <div>
-      <Rows />
-      <Rows />
-      <Rows />
-      <Rows />
-      <Rows />
-      <Rows />
-      <Rows />
-      <Rows />
-      <Rows />
-      <Rows />
-      <Rows />
-      
-    </div>
   );
 }
 
 export default Random;
+
 
 
 
